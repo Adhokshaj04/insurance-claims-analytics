@@ -97,8 +97,7 @@ insurance-claims-analytics/
 │   │   └── marts/                   # Final analytics tables
 │   └── dbt_project.yml
 ├── docs/                             # Documentation
-│   ├── Data_Harmonization_Strategy.md
-│   └── DBT_README.md
+│   ├── DBT_README.md
 ├── requirements.txt
 └── README.md
 ```
