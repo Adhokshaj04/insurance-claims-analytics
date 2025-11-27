@@ -1,0 +1,77 @@
+version: 2
+
+sources:
+  - name: raw
+    description: Raw insurance data from three customer systems
+    database: insurance_analytics
+    schema: insurance_raw
+    tables:
+      - name: customer_a_claims
+        description: Comprehensive claims data from Customer A
+        columns:
+          - name: policy_number
+            description: Policy identifier
+            tests:
+              - not_null
+          
+      - name: customer_b_claims
+        description: Bodily injury claims from Customer B
+        columns:
+          - name: case_number
+            description: Claim case number
+            tests:
+              - not_null
+          
+      - name: customer_c_policies
+        description: Policy and claims data from Customer C
+        columns:
+          - name: record_id
+            description: Record identifier
+            tests:
+              - not_null
+
+models:
+  - name: stg_customer_a
+    description: Cleaned and standardized data from Customer A
+    columns:
+      - name: source_system
+        description: Source system identifier
+        tests:
+          - not_null
+          - accepted_values:
+              values: ['customer_a']
+      
+      - name: age
+        description: Age of insured
+        tests:
+          - not_null
+      
+      - name: total_claim_amount
+        description: Total claim amount in dollars
+        tests:
+          - not_null
+  
+  - name: stg_customer_b
+    description: Cleaned and standardized data from Customer B
+    columns:
+      - name: source_system
+        description: Source system identifier
+        tests:
+          - not_null
+          - accepted_values:
+              values: ['customer_b']
+      
+      - name: total_claim_amount
+        description: Total claim amount in dollars
+        tests:
+          - not_null
+  
+  - name: stg_customer_c
+    description: Cleaned and standardized data from Customer C
+    columns:
+      - name: source_system
+        description: Source system identifier
+        tests:
+          - not_null
+          - accepted_values:
+              values: ['customer_c']

@@ -1,0 +1,101 @@
+ID,KIDSDRIV,BIRTH,AGE,HOMEKIDS,YOJ,INCOME,PARENT1,HOME_VAL,MSTATUS,GENDER,EDUCATION,OCCUPATION,TRAVTIME,CAR_USE,BLUEBOOK,TIF,CAR_TYPE,RED_CAR,OLDCLAIM,CLM_FREQ,REVOKED,MVR_PTS,CLM_AMT,CAR_AGE,CLAIM_FLAG,URBANICITY
+63581743,0,16MAR39,60.0,0,11.0,"$67,349",No,$0,z_No,M,PhD,Professional,14,Private,"$14,230",11,Minivan,yes,"$4,461",2,No,3,$0,18.0,0,Highly Urban/ Urban
+132761049,0,21JAN56,43.0,0,11.0,"$91,449",No,"$257,252",z_No,M,z_High School,z_Blue Collar,22,Commercial,"$14,940",1,Minivan,yes,$0,0,No,0,$0,1.0,0,Highly Urban/ Urban
+921317019,0,18NOV51,48.0,0,11.0,"$52,881",No,$0,z_No,M,Bachelors,Manager,26,Private,"$21,970",1,Van,yes,$0,0,No,2,$0,10.0,0,Highly Urban/ Urban
+727598473,0,05MAR64,35.0,1,10.0,"$16,039",No,"$124,191",Yes,z_F,z_High School,Clerical,5,Private,"$4,010",4,z_SUV,no,"$38,690",2,No,3,$0,10.0,0,Highly Urban/ Urban
+450221861,0,05JUN48,51.0,0,14.0,,No,"$306,251",Yes,M,<High School,z_Blue Collar,32,Private,"$15,440",7,Minivan,yes,$0,0,No,0,$0,6.0,0,Highly Urban/ Urban
+743146596,0,17MAY49,50.0,0,,"$114,986",No,"$243,925",Yes,z_F,PhD,Doctor,36,Private,"$18,000",1,z_SUV,no,"$19,217",2,Yes,3,$0,17.0,0,Highly Urban/ Urban
+871024631,0,05MAY65,34.0,1,12.0,"$125,301",Yes,$0,z_No,z_F,Bachelors,z_Blue Collar,46,Commercial,"$17,430",1,Sports Car,no,$0,0,No,0,"$2,946",7.0,1,Highly Urban/ Urban
+792300541,0,28FEB45,54.0,0,,"$18,755",No,,Yes,z_F,<High School,z_Blue Collar,33,Private,"$8,780",1,z_SUV,no,$0,0,No,0,$0,1.0,0,Highly Urban/ Urban
+7945239,1,17SEP59,40.0,1,11.0,"$50,815",Yes,$0,z_No,M,z_High School,Manager,21,Private,"$18,930",6,Minivan,no,"$3,295",1,No,2,"$6,477",1.0,1,Highly Urban/ Urban
+3577610,0,21AUG55,44.0,2,12.0,"$43,486",Yes,$0,z_No,z_F,z_High School,z_Blue Collar,30,Commercial,"$5,900",10,z_SUV,no,$0,0,No,0,$0,10.0,0,z_Highly Rural/ Rural
+892208080,1,14DEC61,37.0,2,,"$107,961",No,"$333,680",Yes,M,Bachelors,z_Blue Collar,44,Commercial,"$16,970",1,Van,yes,"$2,374",1,Yes,10,"$4,021",7.0,1,Highly Urban/ Urban
+77382913,0,22NOV64,34.0,0,10.0,"$62,978",No,$0,z_No,z_F,Bachelors,Clerical,34,Private,"$11,200",1,z_SUV,no,$0,0,No,0,"$2,501",1.0,1,Highly Urban/ Urban
+856886560,0,22OCT49,50.0,0,7.0,"$106,952",No,$0,z_No,M,Bachelors,Professional,48,Commercial,"$18,510",7,Van,no,$0,0,No,1,$0,17.0,0,z_Highly Rural/ Rural
+308455362,0,25DEC45,53.0,0,14.0,"$77,100",No,$0,z_No,z_F,Masters,Lawyer,15,Private,"$18,300",1,Sports Car,no,$0,0,No,0,"$6,077",11.0,1,Highly Urban/ Urban
+989828809,0,19JUN56,43.0,0,5.0,"$52,642",No,"$209,970",Yes,z_F,Masters,Professional,36,Private,"$22,420",7,Minivan,no,$0,0,No,0,$0,1.0,0,z_Highly Rural/ Rural
+376482434,0,03MAR44,55.0,0,11.0,"$59,162",No,"$180,232",Yes,M,Bachelors,Manager,25,Commercial,"$17,600",7,Van,yes,"$5,028",2,Yes,3,$0,9.0,0,Highly Urban/ Urban
+665591504,0,19JUL46,53.0,0,11.0,"$130,795",No,$0,z_No,M,PhD,,64,Commercial,"$28,340",6,Panel Truck,yes,$0,0,No,3,"$1,267",10.0,1,Highly Urban/ Urban
+713692930,0,17AUG64,35.0,2,,"$21,204",Yes,$0,z_No,M,z_High School,Clerical,74,Private,"$9,230",6,Pickup,no,$0,0,Yes,0,$0,4.0,0,z_Highly Rural/ Rural
+588888550,0,17JAN54,45.0,0,0.0,$0,No,"$106,859",Yes,z_F,<High School,Home Maker,48,Private,"$6,000",1,z_SUV,no,$0,0,No,3,"$2,920",5.0,1,Highly Urban/ Urban
+140015922,0,06AUG60,39.0,3,12.0,"$51,884",Yes,"$180,951",z_No,z_F,Bachelors,Clerical,43,Private,"$10,590",6,z_SUV,no,$0,0,No,0,$0,13.0,0,z_Highly Rural/ Rural
+162166370,0,19APR40,59.0,0,12.0,"$87,460",No,$0,z_No,M,z_High School,Manager,45,Private,"$15,420",1,Minivan,yes,"$44,857",2,No,4,"$4,111",1.0,1,Highly Urban/ Urban
+884513944,0,20DEC56,42.0,0,11.0,"$59,945",No,"$192,207",Yes,M,Masters,Lawyer,42,Private,"$14,190",6,Minivan,no,$0,0,No,0,$0,16.0,0,Highly Urban/ Urban
+627708979,0,14SEP65,34.0,3,13.0,"$34,019",No,"$91,875",Yes,z_F,Masters,Lawyer,27,Private,"$8,300",7,z_SUV,no,$0,0,No,0,$0,20.0,0,Highly Urban/ Urban
+116375554,0,06OCT68,31.0,2,12.0,"$18,903",No,"$93,797",Yes,z_F,<High School,Clerical,48,Private,"$17,330",4,Minivan,no,$0,0,No,0,$0,7.0,0,Highly Urban/ Urban
+235358484,0,22FEB71,28.0,1,13.0,"$44,077",No,"$170,598",Yes,z_F,z_High School,z_Blue Collar,29,Commercial,"$8,710",6,z_SUV,no,"$8,935",2,No,0,"$6,857",1.0,1,Highly Urban/ Urban
+528040687,0,07FEB56,43.0,0,13.0,"$37,214",No,,Yes,M,<High School,z_Blue Collar,52,Commercial,"$26,560",1,Panel Truck,yes,$0,0,No,3,"$3,627",1.0,1,Highly Urban/ Urban
+652572577,0,16DEC50,48.0,0,14.0,"$96,274",No,"$282,904",Yes,z_F,Masters,Lawyer,36,Private,"$11,130",6,z_SUV,no,"$8,250",1,No,5,$0,14.0,0,Highly Urban/ Urban
+410873772,0,24JUL52,47.0,0,11.0,"$46,281",No,$0,z_No,z_F,<High School,z_Blue Collar,29,Private,"$19,700",10,Minivan,no,$0,0,No,1,$0,5.0,0,Highly Urban/ Urban
+254362485,2,06JUL55,44.0,2,0.0,$0,No,"$82,344",Yes,z_F,z_High School,Home Maker,8,Private,"$5,900",6,z_SUV,no,"$3,338",3,No,0,$0,11.0,0,Highly Urban/ Urban
+69165559,0,14APR53,46.0,0,14.0,,No,"$207,519",Yes,M,Bachelors,Professional,7,Commercial,"$25,660",1,Panel Truck,no,"$2,119",1,No,2,$0,12.0,0,Highly Urban/ Urban
+201327208,0,14DEC38,60.0,0,12.0,"$37,940",No,"$182,739",Yes,z_F,z_High School,z_Blue Collar,16,Commercial,"$11,290",1,Sports Car,no,$0,0,No,0,"$5,247",1.0,1,Highly Urban/ Urban
+573751437,0,14DEC65,33.0,1,13.0,"$79,606",No,"$225,962",Yes,z_F,Bachelors,Professional,27,Private,"$16,830",9,z_SUV,no,$0,0,No,2,$0,15.0,0,z_Highly Rural/ Rural
+483050926,0,17APR67,32.0,1,9.0,"$31,275",No,"$118,160",Yes,z_F,z_High School,Clerical,26,Private,"$10,030",1,z_SUV,no,$0,0,No,0,"$4,486",1.0,1,Highly Urban/ Urban
+146989842,1,09APR55,44.0,2,17.0,"$45,488",No,"$219,378",Yes,M,Bachelors,Manager,16,Private,"$22,090",17,Minivan,no,$0,0,No,0,$0,12.0,0,Highly Urban/ Urban
+742435591,0,05APR64,35.0,0,8.0,"$72,193",No,$0,z_No,z_F,Bachelors,Clerical,26,Private,"$12,220",6,z_SUV,no,$0,0,No,3,$0,12.0,0,Highly Urban/ Urban
+915517588,0,06MAY59,40.0,2,0.0,,No,"$98,777",Yes,z_F,Masters,Home Maker,15,Private,"$14,130",6,z_SUV,no,"$38,127",2,Yes,4,$0,12.0,0,z_Highly Rural/ Rural
+756785495,0,15MAY45,54.0,0,12.0,"$33,212",No,"$158,432",Yes,M,<High School,z_Blue Collar,27,Commercial,"$24,000",4,Panel Truck,no,$0,0,No,5,"$4,901",,1,Highly Urban/ Urban
+66662029,0,14FEB50,49.0,0,5.0,"$49,244",No,"$163,444",Yes,M,Bachelors,Clerical,30,Private,"$15,880",1,Minivan,no,$0,0,No,1,$0,1.0,0,Highly Urban/ Urban
+294816298,2,03AUG63,36.0,2,12.0,"$130,540",Yes,"$344,195",z_No,z_F,Bachelors,z_Blue Collar,5,Commercial,"$27,200",4,Minivan,no,$0,0,No,0,$0,9.0,0,z_Highly Rural/ Rural
+686791659,0,07MAY47,52.0,0,8.0,"$51,278",No,"$230,340",Yes,z_F,Bachelors,Professional,37,Private,"$1,500",4,z_SUV,no,$0,0,No,1,$0,10.0,0,Highly Urban/ Urban
+269341556,0,28SEP58,41.0,0,7.0,"$92,842",No,"$286,113",z_No,M,Masters,,12,Commercial,"$25,810",6,Panel Truck,no,"$1,431",2,No,5,$0,15.0,0,Highly Urban/ Urban
+396972296,0,26JUL60,39.0,0,10.0,"$35,081",No,"$202,839",Yes,M,Bachelors,z_Blue Collar,38,Commercial,"$16,640",4,Van,yes,$0,0,No,0,$0,13.0,0,Highly Urban/ Urban
+364483168,0,09APR43,56.0,0,0.0,$0,No,"$63,827",Yes,z_F,PhD,Home Maker,65,Private,"$13,220",1,Minivan,no,$0,0,No,0,$0,12.0,0,z_Highly Rural/ Rural
+866093378,0,07MAR50,49.0,0,12.0,"$115,044",No,"$311,980",z_No,z_F,PhD,Doctor,18,Private,"$17,900",1,Minivan,no,$0,0,No,0,$0,14.0,0,Highly Urban/ Urban
+515421877,0,30MAY61,38.0,0,11.0,"$37,754",No,"$138,823",Yes,z_F,z_High School,Clerical,47,Private,"$12,080",1,z_SUV,no,$0,0,No,2,$0,9.0,0,z_Highly Rural/ Rural
+173737852,0,01JUN56,43.0,2,17.0,"$145,353",No,"$418,785",Yes,z_F,Masters,,38,Commercial,"$29,450",6,Van,no,$0,0,No,0,$0,15.0,0,Highly Urban/ Urban
+745183922,0,30JUN49,50.0,0,8.0,"$167,469",No,$0,z_No,z_F,PhD,Doctor,22,Private,"$34,150",4,Sports Car,no,$0,0,No,3,$0,1.0,0,Highly Urban/ Urban
+298271736,0,04NOV36,63.0,0,15.0,"$121,398",No,"$343,410",Yes,z_F,PhD,Doctor,10,Private,"$16,270",1,z_SUV,no,$0,0,No,0,$0,11.0,0,Highly Urban/ Urban
+70821537,0,12AUG47,52.0,0,0.0,$0,No,"$87,925",z_No,z_F,z_High School,Student,48,Commercial,"$9,280",1,z_SUV,no,$0,0,No,1,$0,6.0,0,z_Highly Rural/ Rural
+258951025,0,24OCT64,35.0,0,7.0,"$14,508",No,$0,Yes,M,Bachelors,Student,22,Commercial,"$6,450",1,Pickup,no,$0,0,No,0,$0,7.0,0,Highly Urban/ Urban
+807174588,0,16NOV56,43.0,0,13.0,"$75,338",No,"$270,555",Yes,z_F,Bachelors,Manager,40,Private,"$23,080",1,Sports Car,no,$0,0,No,0,$0,8.0,0,Highly Urban/ Urban
+514538041,0,06OCT58,41.0,0,10.0,"$32,774",No,$0,z_No,z_F,z_High School,Clerical,44,Private,"$20,120",4,Minivan,no,$0,0,No,0,$0,1.0,0,z_Highly Rural/ Rural
+25561360,0,08APR59,40.0,0,11.0,"$57,474",No,"$186,418",Yes,M,Bachelors,Clerical,5,Commercial,"$29,270",4,Panel Truck,yes,$0,0,No,1,$0,5.0,0,Highly Urban/ Urban
+753037176,0,07AUG68,31.0,1,12.0,"$26,520",No,"$154,493",Yes,M,Bachelors,Student,62,Commercial,"$4,600",6,Minivan,yes,$0,0,No,2,$0,5.0,0,Highly Urban/ Urban
+883748009,0,27OCT52,47.0,0,8.0,"$18,444",No,$0,Yes,z_F,z_High School,Student,35,Commercial,"$19,450",6,z_SUV,no,"$2,981",2,No,5,$0,,0,Highly Urban/ Urban
+31827166,0,06JAN46,53.0,0,,"$107,259",No,"$343,700",Yes,M,Masters,Professional,36,Private,"$29,230",10,Minivan,yes,$0,0,No,0,$0,15.0,0,Highly Urban/ Urban
+680782638,0,05JUN60,39.0,3,7.0,"$34,046",No,"$183,383",Yes,z_F,z_High School,Clerical,33,Private,"$4,040",6,z_SUV,no,$0,0,No,0,$0,5.0,0,z_Highly Rural/ Rural
+883604551,0,20MAY66,33.0,3,14.0,"$32,364",No,"$152,894",Yes,M,<High School,Clerical,40,Private,"$12,270",18,Minivan,yes,$0,0,No,3,$0,1.0,0,Highly Urban/ Urban
+714473703,0,02JAN40,59.0,0,5.0,"$106,775",No,,z_No,M,Masters,Lawyer,10,Private,"$31,930",1,Minivan,yes,$0,0,No,0,$0,,0,Highly Urban/ Urban
+213057541,0,29JAN57,42.0,0,,"$52,988",No,"$176,275",Yes,M,z_High School,z_Blue Collar,24,Commercial,"$23,450",1,Minivan,no,$0,0,No,2,$0,11.0,0,z_Highly Rural/ Rural
+885280620,0,26APR59,40.0,0,11.0,"$16,989",No,$0,z_No,M,<High School,z_Blue Collar,20,Commercial,"$12,230",4,Pickup,yes,"$26,104",1,Yes,13,"$6,100",6.0,1,Highly Urban/ Urban
+931739722,0,15JUL58,41.0,2,7.0,"$17,755",Yes,"$148,815",z_No,z_F,<High School,Clerical,29,Private,"$14,480",1,Minivan,yes,$0,0,Yes,2,$0,1.0,0,Highly Urban/ Urban
+939401184,1,20JAN62,37.0,2,13.0,,Yes,$0,z_No,z_F,z_High School,z_Blue Collar,62,Commercial,"$9,360",4,Sports Car,no,$0,0,No,0,"$6,195",,1,Highly Urban/ Urban
+840809480,0,29JUN63,36.0,3,12.0,"$56,048",No,"$137,836",Yes,M,Masters,Lawyer,15,Private,"$10,700",6,Minivan,no,"$2,045",2,No,2,$0,16.0,0,Highly Urban/ Urban
+800426023,0,02DEC54,44.0,2,15.0,"$16,352",No,"$134,164",Yes,z_F,z_High School,Home Maker,37,Private,"$10,520",1,z_SUV,no,"$7,838",1,No,1,"$8,841",1.0,1,Highly Urban/ Urban
+14827139,0,07FEB43,56.0,0,16.0,"$44,760",No,"$164,852",Yes,M,Bachelors,Manager,30,Private,"$21,770",13,Minivan,yes,$0,0,No,0,$0,6.0,0,Highly Urban/ Urban
+212687745,1,30DEC53,45.0,1,14.0,"$63,952",No,"$196,368",Yes,z_F,Masters,Lawyer,50,Private,"$32,340",6,Van,no,"$27,877",2,Yes,0,"$2,117",13.0,1,Highly Urban/ Urban
+224701093,0,16APR65,34.0,3,12.0,"$22,510",No,"$123,888",Yes,M,z_High School,Clerical,26,Private,"$14,690",4,Minivan,yes,$0,0,Yes,0,"$1,230",1.0,1,z_Highly Rural/ Rural
+401200262,0,23SEP51,48.0,0,,,No,"$252,896",Yes,M,Bachelors,Professional,14,Commercial,"$28,560",13,Panel Truck,yes,"$1,554",5,No,1,$0,10.0,0,Highly Urban/ Urban
+926073051,1,12OCT55,44.0,2,,"$24,060",Yes,$0,z_No,M,Bachelors,Clerical,24,Private,"$14,220",4,Minivan,no,$0,0,No,0,"$3,532",10.0,1,Highly Urban/ Urban
+45830738,0,25JUL66,33.0,4,12.0,"$20,822",No,"$76,022",Yes,z_F,z_High School,Home Maker,46,Private,"$6,880",13,z_SUV,no,"$7,896",3,No,0,$866,1.0,1,Highly Urban/ Urban
+997497927,0,06DEC66,32.0,3,14.0,"$54,968",No,"$146,784",Yes,z_F,z_High School,Professional,20,Private,"$10,040",4,z_SUV,no,$0,0,Yes,0,$0,8.0,0,Highly Urban/ Urban
+862203239,0,20OCT65,34.0,0,8.0,"$14,194",No,"$87,034",z_No,z_F,<High School,Clerical,13,Private,"$2,920",4,Sports Car,no,"$24,767",3,Yes,2,"$7,786",10.0,1,Highly Urban/ Urban
+116102677,1,06NOV61,38.0,4,12.0,"$2,149",No,"$72,889",Yes,z_F,<High School,Home Maker,35,Private,"$22,690",10,Pickup,no,$0,0,No,2,$0,1.0,0,Highly Urban/ Urban
+635101571,0,18FEB64,35.0,2,12.0,,Yes,$0,z_No,z_F,<High School,z_Blue Collar,43,Private,"$9,730",5,z_SUV,no,$0,0,No,4,"$5,426",4.0,1,Highly Urban/ Urban
+793404097,2,02JAN55,44.0,2,14.0,"$45,576",No,"$156,623",Yes,z_F,<High School,z_Blue Collar,27,Private,"$1,500",4,Sports Car,no,"$25,276",1,No,8,$0,,0,Highly Urban/ Urban
+62434528,2,10MAY56,43.0,3,11.0,"$137,103",Yes,$0,z_No,z_F,Masters,Manager,29,Private,"$19,510",1,Sports Car,no,"$8,890",3,No,0,"$4,148",15.0,1,Highly Urban/ Urban
+935079846,0,05SEP50,49.0,0,9.0,,No,$0,z_No,M,PhD,,31,Commercial,"$33,710",3,Panel Truck,no,"$34,351",2,Yes,2,$0,18.0,0,Highly Urban/ Urban
+948288985,0,25OCT53,46.0,0,10.0,"$79,538",No,$0,z_No,z_F,Bachelors,Manager,13,Private,"$14,050",3,Minivan,no,$0,0,Yes,2,$0,11.0,0,Highly Urban/ Urban
+396323054,0,03DEC53,45.0,1,11.0,"$185,836",No,"$509,115",Yes,z_F,PhD,Lawyer,28,Private,"$10,250",1,z_SUV,no,"$4,307",3,No,6,$0,20.0,0,Highly Urban/ Urban
+299024508,0,01JAN53,46.0,0,14.0,,No,"$397,661",z_No,M,Masters,,22,Commercial,"$33,320",4,Panel Truck,yes,$0,0,Yes,1,$0,12.0,0,Highly Urban/ Urban
+39392545,0,08NOV54,45.0,0,11.0,"$61,931",No,"$213,530",Yes,M,Masters,,30,Commercial,"$10,910",13,Pickup,yes,"$25,106",2,No,0,$0,,0,Highly Urban/ Urban
+536604822,0,23JUL51,48.0,0,9.0,"$61,509",No,"$195,438",Yes,M,Masters,,40,Commercial,"$23,230",6,Panel Truck,yes,$0,0,No,1,$0,17.0,0,Highly Urban/ Urban
+429992959,0,16SEP36,63.0,0,9.0,"$74,426",No,$0,z_No,z_F,PhD,Doctor,11,Private,"$27,600",1,z_SUV,no,$0,0,No,0,$0,18.0,0,Highly Urban/ Urban
+160577728,0,18FEB55,44.0,0,9.0,"$74,722",No,"$231,034",Yes,z_F,Bachelors,Professional,9,Private,"$23,640",6,Minivan,no,$0,0,No,0,$0,1.0,0,Highly Urban/ Urban
+108385737,1,07MAR54,45.0,2,11.0,"$102,393",Yes,$0,z_No,M,Bachelors,Professional,25,Private,"$1,500",1,Minivan,yes,$0,0,No,2,"$2,371",11.0,1,Highly Urban/ Urban
+414142186,0,17SEP37,62.0,0,15.0,"$40,656",No,"$208,242",Yes,z_F,z_High School,Clerical,57,Private,"$9,170",4,Sports Car,no,"$42,342",2,Yes,2,"$4,178",7.0,1,Highly Urban/ Urban
+421217157,0,24NOV50,48.0,0,0.0,$0,No,"$98,920",Yes,z_F,z_High School,Home Maker,50,Private,"$8,660",3,Sports Car,no,"$8,363",2,No,3,$0,,0,Highly Urban/ Urban
+935010485,1,10FEB62,37.0,2,12.0,,No,"$205,211",Yes,z_F,Bachelors,z_Blue Collar,43,Commercial,"$5,200",1,z_SUV,no,"$2,718",1,No,1,"$4,804",3.0,1,Highly Urban/ Urban
+537840281,0,27AUG64,35.0,0,,"$29,371",No,$0,z_No,z_F,<High School,Clerical,49,Private,"$4,860",10,Sports Car,no,$0,0,No,0,$0,1.0,0,Highly Urban/ Urban
+748139140,0,13AUG51,48.0,0,12.0,"$31,773",No,"$165,090",Yes,M,z_High School,Clerical,14,Commercial,"$9,640",13,Pickup,no,"$1,212",1,No,4,"$1,354",1.0,1,Highly Urban/ Urban
+601118153,0,26DEC59,39.0,0,11.0,"$33,727",No,$0,z_No,z_F,Bachelors,Clerical,27,Private,"$10,850",1,z_SUV,no,"$8,350",1,No,2,$0,12.0,0,Highly Urban/ Urban
+808304017,0,30MAY50,49.0,0,0.0,$0,No,"$159,389",Yes,z_F,Masters,Professional,42,Private,"$6,400",10,z_SUV,no,"$9,115",1,No,6,$0,14.0,0,Highly Urban/ Urban
+803325269,0,24JUL55,44.0,2,15.0,"$139,330",Yes,"$316,900",z_No,z_F,z_High School,z_Blue Collar,35,Commercial,"$22,050",10,Sports Car,no,$0,0,No,0,$0,1.0,0,z_Highly Rural/ Rural
+701235200,0,22DEC48,50.0,0,13.0,"$163,296",No,"$447,616",z_No,z_F,PhD,Lawyer,42,Private,"$22,830",1,Minivan,no,$0,0,No,0,$0,14.0,0,z_Highly Rural/ Rural
+916609661,0,03OCT69,30.0,1,10.0,"$17,455",Yes,"$140,978",z_No,z_F,<High School,z_Blue Collar,50,Private,"$12,380",13,Minivan,no,$0,0,No,0,$0,6.0,0,z_Highly Rural/ Rural
+469714824,0,03NOV45,54.0,0,,"$71,007",No,"$240,833",Yes,M,Bachelors,Manager,61,Private,"$14,000",6,Minivan,no,$0,0,No,0,$0,11.0,0,Highly Urban/ Urban
+46606719,0,06SEP61,38.0,0,0.0,$0,No,$0,Yes,M,z_High School,Student,41,Commercial,"$17,470",10,Van,no,"$3,157",2,No,5,$0,6.0,0,z_Highly Rural/ Rural
+454040458,0,09APR46,53.0,0,6.0,"$38,036",No,"$153,381",Yes,z_F,z_High School,z_Blue Collar,32,Commercial,"$13,140",1,z_SUV,no,$0,0,No,4,"$2,425",1.0,1,Highly Urban/ Urban
+951246359,0,30MAR46,53.0,0,13.0,"$41,199",No,"$150,933",z_No,z_F,Bachelors,Manager,21,Private,"$15,360",1,z_SUV,no,$0,0,No,0,$0,8.0,0,Highly Urban/ Urban
