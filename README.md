@@ -79,9 +79,10 @@ Analytics & Machine Learning
 ```
 insurance-claims-analytics/
 ├── Dataset/                          # Raw CSV files
-│   ├── insurance_claims.csv
-│   ├── AutoBi.csv
-│   └── car_insurance_claim.csv
+│   ├── insurance_claims_sample.csv
+│   ├── AutoBi_sample.csv
+│   ├── car_insurance_claim_sample.csv
+│   └── README.md
 ├── sql/
 │   ├── schema_setup.sql             # Database schema
 │   └── advanced_sql_queries.sql     # Analytics queries
@@ -96,8 +97,10 @@ insurance-claims-analytics/
 │   │   ├── intermediate/            # Data integration
 │   │   └── marts/                   # Final analytics tables
 │   └── dbt_project.yml
+├── notebooks/
+    └── insurance_claims_visualization.ipynb
 ├── docs/                             # Documentation
-│   ├── DBT_README.md
+│   └── DBT_README.md
 ├── requirements.txt
 └── README.md
 ```
