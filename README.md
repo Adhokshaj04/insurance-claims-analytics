@@ -319,12 +319,11 @@ Integrated three datasets with completely different structures:
 
 ## 👤 Author
 
-**[Your Name]**  
+**Adhokshaj Baliga**  
 Data Analyst | Data Engineer
 
-📧 [your.email@example.com](mailto:your.email@example.com)  
-💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-🐙 [GitHub](https://github.com/yourusername)
+💼 [LinkedIn](https://www.linkedin.com/in/adhokshaj1/)  
+🐙 [GitHub](https://github.com/Adhokshaj04)
 
 ---
 
