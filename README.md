@@ -341,6 +341,5 @@ This project is licensed under the MIT License - see LICENSE file for details.
 
 ---
 
-*Built as a portfolio demonstration of end-to-end data analytics capabilities*
 
 **⭐ Star this repo if you find it useful!**
